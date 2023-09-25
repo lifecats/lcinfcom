@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@400;700;800&display=swap');
+body {
+  margin: 0;
+  font-family: 'K2D', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  background: linear-gradient(231deg, #000 0%, #191836 75.57%);
+  color:#fff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
